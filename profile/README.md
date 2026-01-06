@@ -2,7 +2,7 @@
 
 ## About Us
 
-Welcome to our organization's GitHub profile! We're passionate about building great software and contributing to the open-source community.
+We're passionate about building great software and contributing to the open-source community.
 
 ## What We Do
 
@@ -13,7 +13,3 @@ Welcome to our organization's GitHub profile! We're passionate about building gr
 ## Get Involved
 
 We're always looking for contributors and collaborators! Feel free to explore our repositories and get in touch.
-
----
-
-*This is an organization profile README. Visit our repositories to learn more about our projects.*
